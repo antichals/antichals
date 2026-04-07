@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Carlos Martínez 👋
 
-<!--
-**antichals/antichals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Computer Engineering graduate  
+- ⚙️ Interested in Machine learning, AI engineering and DevOps
+- 📍 Based in Spain, open to relocation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- C++, C#, Python, Java  
+
+**Tools & Technologies**
+- Git, GitLab , Scrum
+- Docker, CI/CD  
+- MATLAB, Simulink
+- Unity, Unreal Engine
+
+**Concepts**
+- Object-Oriented Programming  
+- SOLID principles
+
+**AI & Data Tools (Ongoing learning)**
+- Python (NumPy, Pandas, Matplot)
+- Skicit-learn
+- PyTorch
+  
+---
+
+## 📫 Contact
+
+<a href="https://www.linkedin.com/in/carlos-martinez-53313115b">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
+
+---
