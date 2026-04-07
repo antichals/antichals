@@ -5,9 +5,6 @@
 - 🎓 Computer Engineering graduate  
 - ⚙️ Interested in Machine learning, AI engineering and DevOps
 - 📍 Based in Spain, open to relocation  
-
----
-
 ## 🧰 Tech Stack
 
 **Languages**
@@ -28,12 +25,8 @@
 - Skicit-learn
 - PyTorch
   
----
-
 ## 📫 Contact
 
 <a href="https://www.linkedin.com/in/carlos-martinez-53313115b">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
-
----
