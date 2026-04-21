@@ -21,7 +21,9 @@
 - SOLID principles
 
 **AI & Data Tools (Ongoing learning)**
-- Python (NumPy, Pandas, Matplot)
+- NumPy
+- Pandas
+- Matplot
 - Skicit-learn
 - PyTorch
   
