@@ -8,17 +8,22 @@
 ## 🧰 Tech Stack
 
 **Languages**
-- C++, C#, Python, Java, HTML, CSS, Javascript  
+- Python, C++, C#, HTML, CSS, Javascript
 
-**Tools & Technologies**
-- Git, GitLab , Scrum
-- Docker, CI/CD
-- Jupyter Notebook
-- MATLAB, Simulink
-- Unity, Unreal Engine
-
-**AI & Data Tools (Ongoing learning)**
+**AI & Data**
 - NumPy, Pandas, Matplotlib, scikit-learn, PyTorch
+
+**DevOps & Tools**
+- Git, Docker, CI/CD, GitLab, Jupyter Notebook
+
+**Other**
+- Unity, Unreal Engine, MATLAB
+
+## 🎓 Relevant Coursework (AI & Machine Learning)
+- Supervised Learning  
+- Unsupervised Learning  
+- Deep Learning  
+- Reinforcement Learning 
   
 ## 📫 Contact
 
