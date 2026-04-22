@@ -8,24 +8,17 @@
 ## 🧰 Tech Stack
 
 **Languages**
-- C++, C#, Python, Java  
+- C++, C#, Python, Java, HTML, CSS, Javascript  
 
 **Tools & Technologies**
 - Git, GitLab , Scrum
-- Docker, CI/CD  
+- Docker, CI/CD
+- Jupyter Notebook
 - MATLAB, Simulink
 - Unity, Unreal Engine
 
-**Concepts**
-- Object-Oriented Programming  
-- SOLID principles
-
 **AI & Data Tools (Ongoing learning)**
-- NumPy
-- Pandas
-- Matplot
-- Skicit-learn
-- PyTorch
+- NumPy, Pandas, Matplotlib, scikit-learn, PyTorch
   
 ## 📫 Contact
 
