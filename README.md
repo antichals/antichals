@@ -1,29 +1,8 @@
 # Hi, I'm Carlos Martínez 👋
 
 ## About Me
+- Computer Engineer
 
-- Computer Engineering graduate  
-- Interested in Machine learning, AI engineering and DevOps
-- Based in Spain, open to relocation  
-## Tech Stack
-
-**Languages**
-- Python, C++, C#, HTML, CSS, Javascript
-
-**AI & Data**
-- NumPy, Pandas, Matplotlib, scikit-learn, PyTorch
-
-**DevOps & Tools**
-- Git, GitLab, Docker, CI/CD, Jupyter Notebook
-
-**Other**
-- Unity, Unreal Engine, MATLAB
-
-## Relevant Coursework (AI & Machine Learning)
-- Supervised Learning  
-- Unsupervised Learning  
-- Deep Learning  
-- Reinforcement Learning 
   
 ## Contact
 
